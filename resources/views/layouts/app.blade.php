@@ -22,6 +22,10 @@
         input, select, textarea { width: 100%; padding: 6px; margin-top: 4px; }
         .error { color: #b91c1c; font-size: 14px; margin-top: 4px; }
         .btn-submit { margin-top: 20px; padding: 8px 16px; background: #2563eb; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
+        .badge { display: inline-block; padding: 2px 10px; border-radius: 12px; font-size: 13px; font-weight: bold; }
+        .badge-dikembalikan { background: #d1fae5; color: #065f46; }
+        .badge-dipinjam { background: #fef3c7; color: #92400e; }
+        .badge-terlambat { background: #fee2e2; color: #991b1b; }
         footer { text-align: center; padding: 20px; color: #6b7280; font-size: 14px; border-top: 1px solid #e5e7eb; margin-top: 40px; }
     </style>
 </head>
